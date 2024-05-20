@@ -10,3 +10,30 @@
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+```
+composer install 
+
+cp .env.example .env 
+
+php artisan cache:clear 
+
+composer dump-autoload 
+
+php artisan key:generate
+
+php artisan serve
+```
+
+Create the DB
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=surat-app
+DB_USERNAME=root
+DB_PASSWORD=
+```
+Now migrate your DB
+```
+php artisan migrate
+```
