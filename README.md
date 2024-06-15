@@ -41,4 +41,14 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
+#Images
+
 ![Deskripsi Gambar](/public/images/image1.png)
+
+![Deskripsi Gambar](/public/images/image2.png)
+
+![Deskripsi Gambar](/public/images/image3.png)
+
+![Deskripsi Gambar](/public/images/image4.png)
+
+![Deskripsi Gambar](/public/images/image5.png)
