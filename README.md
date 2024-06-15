@@ -41,4 +41,4 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-
+![Deskripsi Gambar](e_commerce_laravel_fillament_livewire/public/images/image1.png)
