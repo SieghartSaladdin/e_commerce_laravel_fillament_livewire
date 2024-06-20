@@ -41,7 +41,7 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-# Images
+## Images
 
 ![Deskripsi Gambar](/public/images/image1.png)
 
